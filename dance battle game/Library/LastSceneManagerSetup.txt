@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GAD170_1 Framework for Students/Assets/Scenes/MainScene.unity
+  isLoaded: 1
+  isActive: 1
